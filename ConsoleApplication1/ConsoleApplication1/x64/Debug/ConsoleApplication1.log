@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+  main_funct.cpp
+C:\Users\kfius\source\repos\ConsoleApplication1\ConsoleApplication1\main_funct.cpp(26,15): error C3861: 'GetModuleBase': identifier not found
+  memorystuff.cpp
+  setup.cpp
+  Generating Code...
